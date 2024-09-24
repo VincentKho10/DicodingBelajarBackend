@@ -11,5 +11,5 @@ fs.readFile('todo.txt', 'UTF-8', fileReadCallback);
 
 const data = fs.readFileSync('todo.txt', 'UTF-8')
 
-console.log(dat)
+console.log(data)
 
